@@ -1,41 +1,25 @@
 {
 	"auto_complete": true,
-		// オートコンプリート
 	"auto_complete_delay": 50,
-		// 補完候補表示の遅延
 	"auto_complete_size_limit": 4194304,
-		// オートコンプリートの最大サイズ
+	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
 	"detect_indentation": true,
-		// インデントの検出
-		// ファイルを読み込むと自動的にtranslate_tabs_to_spacesとtab_sizeを設定
 	"draw_indent_guides": true,
-		// インデントの補助線の描画
 	"draw_minimap_border": true,
-		// ミニマップの表示位置にボーダーを付ける
 	"draw_white_space": "all",
-		//タブやスペースなどの不過視文字を表示
 	"ensure_newline_at_eof_on_save": true,
-		// ファイルの最終行を改行記号にする
 	"font_face": "Ricty",
-		// フォントの種類（OS X）
-	"font_size": 15,
-		// フォントサイズ（OS X）
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-		// フォントのアンチエイリアス表示
+	"font_size": 15,
 	"highlight_line": true,
-		// キャレットのある行をハイライトする
-	"tab_size": 4,
-		//タブサイズ	
-	"word_wrap": true,
-		// テキストの折り返し
-	"wrap_width": 0,
-		// テキストの折り返しをウインドウの幅で
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"tab_size": 4,
+	"word_wrap": true,
+	"wrap_width": 0
 }
