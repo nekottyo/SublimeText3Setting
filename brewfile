@@ -5,9 +5,9 @@ update || true
 install brew-cask || true
 install git || true
 install wget || true
-install kyoto-tycoon || true
-install kyoto-cabinet || true
 install zsh || true
+install gcc || true
+install virtuoso || true
 
 cask install dropbox || true
 cask install skype || true
@@ -22,3 +22,6 @@ cask install steam || true
 cask install appcleaner || true
 cask install teamspeak-client || true
 cask install alfred || true
+cask install mactex || true
+cask install ophos-anti-virus-home-edition || true
+cask install disk-inventory-x || true
